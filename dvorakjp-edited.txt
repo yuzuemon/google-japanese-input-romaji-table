@@ -45,11 +45,20 @@ c;	かん
 ca	か
 cc	っ	c
 ce	け
+ch' ちゃい
+ch, ちょう
+ch. ちぇい
+ch; ちゃん
 cha	ちゃ
 che	ちぇ
 chi	ち
+chj ちぇん
 cho	ちょ
-chu	ちゅ
+chp ちゅう
+chq ちょん
+chu ちゅ
+chk ちゅん
+chx ちぃん
 ci	き
 cj	けん
 ck	くん
