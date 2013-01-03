@@ -2,7 +2,7 @@ Google日本語入力用ローマ字テーブル
 ====
 
 
-[yuzuemon/google-japanese-input-romaji-table](https://github.com/yuzuemon/google-japanese-input-romaji-table)のdvorakjp-.txtに一部キーマップを追加したものです。
+[yuzuemon/google-japanese-input-romaji-table](https://github.com/yuzuemon/google-japanese-input-romaji-table)の`dvorakjp-.txt`を修正・拡張した`dvorakjp-edited.txt`を追加したものです。
 
 
 内容
@@ -10,7 +10,7 @@ Google日本語入力用ローマ字テーブル
 
 *  dvorak-jp.txt - DvorakJP配列用のローマ字テーブル
 *  dvorakjp-.txt - DvorakJP-配列用のローマ字テーブル
-*  dvorakjp-edited.txt - DvorakJP-配列用のローマ字テーブル（一部キーマップ追加）
+*  dvorakjp-edited.txt - DvorakJP-配列用のローマ字テーブル修正拡張版
 
 
 使い方
