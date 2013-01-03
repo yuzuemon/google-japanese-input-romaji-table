@@ -491,6 +491,7 @@ t;	たん
 ta	た
 tch	っ	ch
 te	て
+thi	てぃ
 thx	てぃん
 ti	ち
 tj	てん
