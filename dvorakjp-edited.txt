@@ -578,6 +578,7 @@ ye	いぇ
 yi	い
 yk	ゆん
 yo	よ
+yp	ゆう
 yq	よん
 yu	ゆ
 yy	っ	y
