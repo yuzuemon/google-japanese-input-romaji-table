@@ -533,12 +533,20 @@ tyi	ちぃ
 tyo	ちょ
 tyu	ちゅ
 u	う
+v;	ヴァん
+v'	ヴァい
+v,	ヴォう
+v.	ヴェい
 va	ヴァ
 ve	ヴェ
 vi	ヴィ
+vj	ヴェん
+vk	ヴん
 vo	ヴォ
+vq	ヴォん
 vu	ヴ
 vv	っ	v
+vx	ヴィん
 w'	わい
 w.	うぇい
 w;	わん
