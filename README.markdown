@@ -1,8 +1,11 @@
 Google日本語入力用ローマ字テーブル
 ====
 
+### WARNING!! 
 
-[yuzuemon/google-japanese-input-romaji-table](https://github.com/yuzuemon/google-japanese-input-romaji-table)の`dvorakjp-.txt`を修正・拡張した`dvorakjp-edited.txt`を追加したものです。
+現在はメンテナンスを行っていません。
+拗音に対する二重母音拡張が徹底されたローマ字テーブルが以下に公開されているので、今後はこちらをご利用ください。
+[shinespark/dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable)
 
 
 内容
