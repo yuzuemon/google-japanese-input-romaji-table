@@ -3,7 +3,7 @@ Google日本語入力用ローマ字テーブル
 
 ### WARNING!! 
 
-現在はメンテナンスを行っていません。
+現在はメンテナンスを行っていません。  
 拗音に対する二重母音拡張がより徹底されているローマ字テーブルが以下に公開されているので、そちらをご利用ください。
 
 [shinespark/dvorakjp-romantable](https://github.com/shinespark/dvorakjp-romantable)
